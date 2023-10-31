@@ -17,3 +17,8 @@ PHASE-2
 Proposed Solution for Deep Learning Model For Detecting Diseases In Tea Leaves
 Data Flow Diagram for Deep Learning Model For Detecting Diseases In Tea Leaves
 Solution Architecture for Deep Learning Model For Detecting Diseases In Tea Leaves
+
+PHASE-3
+Technology Stack for the project
+Application Characteristics
+File Name: Technology and Application Characteristics
