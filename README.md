@@ -27,3 +27,7 @@ Technology Stack for the project
 Application Characteristics
 
 File Name: **Technology and Application Characteristics**
+
+**PHASE-4**
+Project Developed on Google colab.
+ipynb File and pkl file of the CNN model uploaded.
