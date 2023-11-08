@@ -1,1 +1,5 @@
+The Flask code run on Python 3.10.12 Version(Since the CNN Model was trained on Google Colab)
 
+Using any lower version will result in Dimension error for CNN pkl file
+
+Command to run app.py    python3.10 app.py
