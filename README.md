@@ -1,7 +1,7 @@
 # SI-GuidedProject-600840-1697472978
-Team Members: Saatvik Sumanta, Abigna Kotamareddi, Abhigyan Ghoshal, Denesh 
+Team Members: **Saatvik Sumanta, Abigna Kotamareddi, Abhigyan Ghoshal, Denesh**
 
-Team ID: Team-592327
+Team ID: **Team-592327**
 
 Project Name: Deep Learning Model For Detecting Diseases In Tea Leaves
 
