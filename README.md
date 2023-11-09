@@ -5,7 +5,7 @@ Team ID: **Team-592327**
 
 Project Name: Deep Learning Model For Detecting Diseases In Tea Leaves
 
-**PHASE-1**
+**PHASE-1 Ideation**
 
 Empathy Map: https://app.mural.co/t/dsaasmartinternzproject0529/m/dsaasmartinternzproject0529/1697622580181/0673a7bb6c381f7fb29177cecbc70ca6ffd0764d?sender=u63b9d5d79e4a5e231cb25490
 
@@ -14,7 +14,7 @@ Brainstorming: https://app.mural.co/t/dsaasmartinternzproject0529/m/dsaasmartint
 
 File Name: **IDEATION & EMPATHY MAP, Tea Leaf Disease Identification BrainStorm, Tea Leaf Disease Identification Empathy Map**
 
-**PHASE-2**
+**PHASE-2 Project Design**
 
 Proposed Solution for Deep Learning Model For Detecting Diseases In Tea Leaves
 Data Flow Diagram for Deep Learning Model For Detecting Diseases In Tea Leaves
@@ -22,7 +22,7 @@ Solution Architecture for Deep Learning Model For Detecting Diseases In Tea Leav
 
 File Name: **Data Flow Diagram for Deep Learning Model For Detecting Diseases In Tea Leaves, Proposed Solution for Deep Learning Model For Detecting Diseases In Tea Leaves, Solution Architecture for Deep Learning Model For Detecting Diseases In Tea Leaves**
 
-**PHASE-3**
+**PHASE-3 Project Planning**
 
 Technology Stack for the project
 
@@ -30,7 +30,7 @@ Application Characteristics
 
 File Name: **Technology and Application Characteristics**
 
-**PHASE-4**
+**PHASE-4 Project Development**
 
 Project Developed on Google colab.
 
@@ -44,7 +44,7 @@ Website Codes uploaded consissting of HTML, CSS, JS, Flask files in respective t
 
 **Point To Note: The accuracy was increased before loading the model to website, the accuracy mentioned in the ipynb file is lower by 1%.** 
 
-**Phase-5**
+**Phase-5 Project Performance & Final Submission**
 
 Solution Performance Testing Report - Deep Learning Model For Tea Leaf Disease Detection
 
