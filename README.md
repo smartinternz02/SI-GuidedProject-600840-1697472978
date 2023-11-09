@@ -38,7 +38,6 @@ ipynb File and pkl file of the CNN model uploaded.
 
 Website Codes uploaded consissting of HTML, CSS, JS, Flask files in respective templates and static folders.
 
-**Project Manual To Upload**
 
 **Dataset Link: https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs**
 
