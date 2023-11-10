@@ -50,3 +50,5 @@ Solution Performance Testing Report - Deep Learning Model For Tea Leaf Disease D
 Project Documentation
 
 Updated Video Demonstration Link: **https://www.youtube.com/watch?v=_lXmP4IG1nE**
+
+Google Colab Notebook: **https://colab.research.google.com/drive/13n8SoOF0Xd-T1LMK0ObQSOFvURhfeegC?usp=sharing**
