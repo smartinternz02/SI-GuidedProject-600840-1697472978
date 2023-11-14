@@ -5,7 +5,7 @@ Team ID: **Team-592327**
 
 Project Name: Deep Learning Model For Detecting Diseases In Tea Leaves
 
-**PHASE-1 Ideation**
+**<u>PHASE-1 Ideation</u>**
 
 Empathy Map: https://app.mural.co/t/dsaasmartinternzproject0529/m/dsaasmartinternzproject0529/1697622580181/0673a7bb6c381f7fb29177cecbc70ca6ffd0764d?sender=u63b9d5d79e4a5e231cb25490
 
