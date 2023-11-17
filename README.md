@@ -28,7 +28,9 @@ Technology Stack for the project
 
 Application Characteristics
 
-File Name: **Technology and Application Characteristics**
+Project Planning Phase
+
+File Name: **Technology and Application Characteristics & Project Planning Phase**
 
 **PHASE-4 Project Development**
 
